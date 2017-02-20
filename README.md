@@ -1,5 +1,5 @@
 # GAN
-This is my attempt to reproduce results from Ian Goodfellow's classic [Generative Adversarial Networks](https://arxiv.org/abs/1406.2661) paper in Tensorflow
+This is my attempt to reproduce results from Ian Goodfellow et al classic [Generative Adversarial Networks](https://arxiv.org/abs/1406.2661) paper in Tensorflow
 
 
 ### Requirements
@@ -24,4 +24,4 @@ This is my attempt to reproduce results from Ian Goodfellow's classic [Generativ
 
 Update the output repo again, failed to upload many .png files
 
-## This project is supported by Chinese Academy of Sciences, Institute of Automation
+## This project is supported by Institute of Automation, Chinese Academy of Sciences
