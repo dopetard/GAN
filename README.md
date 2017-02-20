@@ -12,7 +12,7 @@ This is my attempt to reproduce results from Ian Goodfellow et al classic [Gener
 
 <img src="https://github.com/leakyrelu/GAN/blob/master/training1.jpg"/> <br/>
 
-### The noisy random sample
+### Noisy random sample
 
 <img src = "https://github.com/leakyrelu/GAN/blob/master/GAN%20output/random_sample0.jpg"/> <br/>
 
