@@ -24,4 +24,6 @@ This is my attempt to reproduce results from Ian Goodfellow et al classic [Gener
 
 Update the output repo again, failed to upload many .png files
 
+Add descriptive comments
+
 ## This project is supported by Institute of Automation, Chinese Academy of Sciences
